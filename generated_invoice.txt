@@ -1,0 +1,29 @@
+
+
+					 The Mohit Kewalramani Restaurant 
+--------------------------------------------------------------------------------
+							 *** Meal Receipt *** 
+--------------------------------------------------------------------------------
+
+
+Employee Name: mohit											Date: 2017-5-27
+
+
+		Item				Item Price		Quantity Ordered		Item Total
+		____				__________		________________		__________
+
+1]  chicken_pizza            $6.25					4				$25.00
+
+2]  soda                     $1.99					5				$9.95
+
+3]  ice_cream                $0.99					1				$0.99
+
+
+												 Total Before Tax:  $35.94
+														GST Value:  $1.80
+														PST Value:  $2.52
+
+												      Grand Total:  $40.25
+												      ____________________
+
+  Thanks for stopping by at the MK Restauraunt. We hope to see you soon again !
