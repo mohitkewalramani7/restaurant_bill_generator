@@ -6,7 +6,7 @@ A project written entirely in C++ which allows a restaurant manger to generate a
 
 # Installation : 
 
-Download the project from GitHub to a Unix/Linux enviornment. The download will take place as a compressed file, so it will have to be decompressed. 
+Download the project from GitHub to an enviornment set up for C/C++ programme compilation. The download will take place as a compressed file, so it will have to be uncompressed. 
 
 # Running The Programme:
 Once all files are ready, compile the main.cc file using the make command. Once the compilation is done, run the generated executable main file, and the programme is ready to run. Feel free to ammend the items in the restaurant menu that can be done in the menu_item.cc file.  
